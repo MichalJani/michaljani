@@ -5,11 +5,17 @@
 
 <!-- List your skills, link them to their repository so it's easy to browse them -->
 🔬 I usually develop using 
+
 Typescript
+
 Python
+
 React
+
 Node.js - (Nest)
+
 AWS
+
 
 ## 📈 Github Stats
 
