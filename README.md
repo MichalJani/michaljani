@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 hi there!
+<!-- Add a quick bio about you, use emojis to emphatize concepts -->
+#### I am Michał, Fullstack dev at 🔴 [Intent](https://withintent.com).
 
-<!--
-**MichalJani/michaljani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- List your skills, link them to their repository so it's easy to browse them -->
+🔬 I usually develop using 
+Typescript
+Python
+React
+Node.js - (Nest)
+AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaljanic&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaljani&count_private=true&hide=c)](https://github.com/matteocrippa)
