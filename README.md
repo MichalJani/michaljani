@@ -16,6 +16,10 @@ Node.js - (Nest)
 
 AWS
 
+Rust
+
+Go
+
 
 ## 📈 Github Stats
 
