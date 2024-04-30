@@ -1,4 +1,4 @@
-## 👋 hi there!
+## 👋 Hi there!
 <!-- Add a quick bio about you, use emojis to emphatize concepts -->
 #### I am Michał, Fullstack dev at 🔴 [Intent](https://withintent.com). I specialize in IoT solutions.
 
@@ -7,7 +7,7 @@
 🔬 I usually develop using Typescript, Node.js - (NestJS), AWS - (EC2, Lambda, Aurora, DynamoDB, Bedrock, S3), React and Python.
 
 
-## 🪪 Certifications
+## 🪪 Certifications and Training
 
 AWS Certified Cloud Practitioner - 10/2023
 
