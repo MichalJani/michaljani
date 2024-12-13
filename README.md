@@ -1,10 +1,10 @@
 ## 👋 Hi there!
 <!-- Add a quick bio about you, use emojis to emphatize concepts -->
-#### I am Michał, Fullstack dev at 🔴 [Intent](https://withintent.com). I specialize in IoT solutions.
+#### I am Michał, Fullstack dev at EPAM. I specialize in AI and IoT solutions.
 
 
 <!-- List your skills, link them to their repository so it's easy to browse them -->
-🔬 I usually develop using Typescript, Node.js - (NestJS), AWS - (EC2, Lambda, Aurora, DynamoDB, Bedrock, S3), React and Python.
+🔬 I usually develop using Typescript, Node.js and Python.
 
 
 ## 🪪 Certifications and Training
